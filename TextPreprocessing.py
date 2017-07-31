@@ -147,7 +147,7 @@ def makeBinaryVectorSpace(vsFile, doc1, doc2, doc3):
 		
 	doc1List = fileToList(doc1+".txt")
 	doc2List = fileToList(doc2+".txt")
-	doc3List = fileToList(doc2+".txt")
+	doc3List = fileToList(doc3+".txt")
 	
 	addBlankCol(vsDF, biTitle1)
 	addBlankCol(vsDF, biTitle2)
@@ -177,7 +177,7 @@ def makeRTFVectorSpace(vsFile, doc1, doc2, doc3):
 		
 	doc1List = fileToList("filtered "+doc1+".txt")
 	doc2List = fileToList("filtered "+doc2+".txt")
-	doc3List = fileToList("filtered "+doc2+".txt")
+	doc3List = fileToList("filtered "+doc3+".txt")
 	
 	addBlankCol(vsRTF, rtfTitle1)
 	addBlankCol(vsRTF, rtfTitle2)
