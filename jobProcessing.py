@@ -131,7 +131,6 @@ def makeBinaryVectorSpace(vsFile, doc1, doc2):
 		
 	doc1List = fileToList(doc1+".txt")
 	doc2List = fileToList(doc2+".txt")
-#	doc3List = fileToList(doc2+".txt") # This is the mistake I made in the original assignment!
 	
 	addBlankCol(vsDF, biTitle1)
 	addBlankCol(vsDF, biTitle2)
@@ -158,8 +157,7 @@ def makeRTFVectorSpace(vsFile, doc1, doc2):
 		
 	doc1List = fileToList("filtered "+doc1+".txt")
 	doc2List = fileToList("filtered "+doc2+".txt")
-#	doc3List = fileToList("filtered "+doc2+".txt") # Another example of the mistake in the original assignment
-	
+
 	addBlankCol(vsRTF, rtfTitle1)
 	addBlankCol(vsRTF, rtfTitle2)
 
@@ -168,7 +166,6 @@ def makeRTFVectorSpace(vsFile, doc1, doc2):
 	rtfCompare(vsRTF, 'Words', doc1List, rtfTitle1)
 	rtfCompare(vsRTF, 'Words', doc2List, rtfTitle2)
 	
-#	print(vsRTF)
 	return vsRTF
 
 def compNorm(dFrame, rtfCol, normCol): # Engine of Normalization function
@@ -195,7 +192,6 @@ def makeNormalTF(makeRTF, doc1, doc2):
 	compNorm(makeRTF, rtfTitle1, normTitle1)
 	compNorm(makeRTF, rtfTitle2, normTitle2)
 
-#	print(makeRTF)
 	return makeRTF
 
 def makeTFIDF(ntf, doc1, doc2):	
