@@ -1,11 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  3 23:50:50 2017
+# This script makes a series of .txt files by number. This helped in organizing scraped data.
 
-@author: Chris
-"""
-
-numberList = list(range(301,303))
+numberList = list(range(1,101))
 
 def makeFile(fName):
     newFile = open(fName+".txt", "w")
