@@ -1,9 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  4 08:58:33 2017
+# Uses an inclusive word list to make a binary inclusion model.
+# The current word list includes topics of interest and common terms found in postings
+# in job search engines for "Data Analyst."
 
-@author: Chris
-"""
 import pandas as pd
 
 def main():
