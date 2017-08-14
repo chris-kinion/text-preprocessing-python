@@ -1,0 +1,19 @@
+Qualifications
+
+KNOWLEDGE/SKILLS/ABILITY:
+
+Solid understanding of data transformation (e.g., parsing, mapping and serialization processes).
+
+Ability to develop work plans and follow through on assignments with minimal guidance.
+
+Working knowledge of Microsoft SSIS and Informatica ETL platforms.
+
+Excellent communications skills, both oral and written. Ability to work with business and system owners to obtain requirements and manage expectations.
+
+Solid understanding and working skills in Master Data Management, Customer Data Integration, Extract Transform & Load, Enterprise Information Integration, and Enterprise Application Integration.
+
+Advanced knowledge of Federated Database Systems, SOA-based Data Integration, and Data Governance.
+
+EXPERIENCE/EDUCATION:
+
+Requires a Bachelor's degree in Computer Science, Mathematics, Engineering or a related field from an accredited institution and 3 - 5 years practical experience in data architecture including data transformation, data warehousing, data mining.

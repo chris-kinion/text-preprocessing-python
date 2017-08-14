@@ -1,0 +1,16 @@
+Basic Qualifications:
+-1+ years of experience with designing and implementing machine learning, data mining, statistics, or graph algorithms in an academic or professional work environment
+-1+ years of experience with programming in Python, R, or an equivalent language
+-Experience with thinking creatively to develop innovative solutions in a team environment
+-Ability to obtain a security clearance
+-BS degree
+Additional Qualifications:
+-Experience with Logistic Regression, SVM, Decision Tree, and Random Forest
+-Experience with data visualization tools and techniques
+-Experience with virtual machine environments
+-Experience with High Performance Computing (HPC)
+-Experience with developing solutions using Amazon Web Services
+-Knowledge of SQL, NoSQL, Spark, Hadoop, or other Big Data architectures
+-BS degree in CS, Mathematics, Engineering, or related technical field preferred; MA or MS degree a plus
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.

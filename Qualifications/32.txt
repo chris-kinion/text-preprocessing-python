@@ -1,0 +1,18 @@
+Minimum Qualifications 
+If Bachelor's degree, 4+ years experience in a decision support analytic function Or
+If Master's Degree, 2+ years experience in a decision support analytic function Or
+If PhD, 1+ years experience in a decision support analytic function
+Bachelor's degree in Economics, Finance, Statistics, Mathematics, Actuarial Sciences or other quantitative discipline. (Four years work experience in statistics, mathematics or quantitative analytics or related experience can be substituted in lieu of a degree in addition to the minimum years of work experience required. *8 years total)
+A Master's Degree in quantitative analytics or a related field
+A PhD in quantitative analytics or a related field
+Preferred Qualifications 
+Extensive experience with AnyLogic
+Extensive experience with Java
+A degree in any of the following: Applied Mathematics, Operations Research, Industrial Engineering, Data Science, Process Engineering, Computational Physics, Computational Sociology/Computational Social Sciences, or Computational Economics
+Knowledge/Skills/Attributes 
+Demonstrates competency in mathematical and statistical techniques and approaches used to drive fact-based decision-making.
+Experience presenting and communicating findings/recommendations to team members.
+Advanced knowledge of data analysis tools;
+Advanced knowledge in developing analysis queries and procedures in SQL, SAS, BI tools or other analysis software.
+Advanced knowledge of relevant industry data & methods and demonstrated ability to connect external insights to business problems.
+Demonstrated ability to influence business decisions.

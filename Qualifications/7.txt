@@ -1,0 +1,25 @@
+Minimum Experience
+If Bachelor's degree, 8+ years experience in Information or Data related practices to include: information governance, information management, information architecture, IT, analysis and reporting OR
+If Master's degree, 6+ years experience in Information or Data related practices to include: information governance, information management, information architecture, IT, analysis and reporting OR
+If PhD, 5+ years experience Information or Data related practices to include: information governance, information management, information architecture, IT, analysis and reporting
+Bachelor's Degree in Information Architecture, Information Management, Information Studies or a related technical field. Four years work experience in information governance, information management or information architecture can be substituted in lieu of a degree in addition to the minimum years of work experience required. OR
+A Master's Degree in Information Architecture, Information Management, Information Studies or a related technical field OR
+A PhD in Information Architecture, Information Management, Information Studies or a related technical field
+*Qualifications may warrant placement in a different job level*
+When you apply for this position, you will be required to answer some initial questions. This will take approximately 5 minutes. Once you begin the questions you will not be able to finish them at a later time and you will not able to change your responses.
+Preferred Qualifications
+Experience in a business line performing as Data Steward, Data Governance, Data Analyst, or Business Intelligence Analyst.
+Ability to asses and analyze data management or process gaps as well as lead the implementation/remediation of gaps.
+Problem solving and excellent communication skills
+Ability to facilitate enterprise wide discussions and negotiate compromise
+Master Data Management knowledge a plus.
+Experience with IBM’s InfoSphere platform or metadata and data quality
+Knowledge/Skills/Attributes
+Expert knowledge of industry information/data governance best practices.
+Expert knowledge of industry information / data governance tools.
+Expert knowledge and experience implementing and supporting information / data quality tool solutions.
+Expert knowledge and experience implementing and supporting meta-data tool solutions.
+Expert knowledge and experience using tools to implement and support information / data steward capabilities.
+Expert knowledge and experience using tools to implement and support 3rd party data acquisition solutions.
+Advanced knowledge of Microsoft Office tools to include Word, Excel, and Access.
+Demonstrated leadership experience.

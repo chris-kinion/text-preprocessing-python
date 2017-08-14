@@ -1,0 +1,34 @@
+Minimum Requirements
+
+6+ years in predictive modeling, large data analysis and computer science
+Experience in stochastic modeling, machine learning, and other advanced mathematical techniques (e.g., neural nets, simulation, graph analysis)
+Solid experience in at least one compiled language (e.g., Java, C++) and one dynamic scripting language (Python, PERL, Ruby)
+Master's degree in Computer Science, Applied Mathematics, Quantitative Economics, Statistics, or related field.
+*Qualifications may warrant placement in a different job level.*
+
+When you apply for this position, you will be required to answer some initial questions. This will take approximately 5 minutes. Once you begin the questions you will not be able to finish them at a later time and you will not be able to change your responses.
+
+Preferred
+
+Simulation optimization experience 
+Operations research background 
+Knowledge/Skills/Attributes
+
+- Advanced skills in developing technical / business approaches and new or enhanced technical tools.
+
+- Developing expertise with data mining concepts and techniques
+
+- Practical experience building algorithms
+
+- Strong mathematics and statistics skills
+
+- Strong problem solving and logical skills
+
+- Ability to relate to and solve business problems through machine learning and statistics.
+
+- Ability to think creatively and to work well both as part of a team and as an individual contributor.
+
+- Ability to visualize data, communicate the data and utilize it effectively
+
+- Ability to see the problem from the perspective of the business stakeholder who owns the problem
+

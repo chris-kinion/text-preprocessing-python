@@ -1,0 +1,14 @@
+Basic Qualifications:
+-Experience with Microsoft Project
+-Knowledge of project management functions, including SLAs and migration plan management and coordination
+-Ability to analyze network architecture plans, implementation or cutover plans, integration plans, or interoperability plans
+-Secret clearance
+-BA or BS degree
+-IAT II Certification, including Security+, GSEC, or CCNA-Security
+
+Additional Qualifications:
+-Knowledge of data center and Cloud operations
+-PMP Certification preferred
+
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Secret clearance is required.

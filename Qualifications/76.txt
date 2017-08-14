@@ -1,0 +1,10 @@
+ANALYST - RESEARCH ANALYST - SPACE DATA SYSTEMS 
+Job code: 15-01228
+
+Email a friend 
+
+Printer friendly 
+
+Job Summary: 
+
+Work with small teams to develop and deploy Java web applications to support a variety of NASA/ESA space missions. The web applications support space missions by providing tools for planning mission activities, instrument telemetry data management, spaceflight operations tools, and space manufacturing support. Responsibilities will include developing new software functions in Java; creating and improving existing web pages with Spring, JavaScript, jQuery, AJAX, and CSS; writing SQL to work with Oracle or MySQL databases; and working with scientists and engineers to plan new features and review products in development. 

@@ -1,0 +1,13 @@
+Senior Data Analyst – Master Data Unit 
+
+This is a 6-month contract with potential on being extended based on job performance and business needs. 
+
+JOB DESCRIPTION 
+
+Responsible for data cleansing and migration from SAP 6.0 to new S4 Hana system. Work includes compressing multiple material records with coordination to warehouse management. 
+
+DUTIES AND RESPONSIBILITIES
+Analyze thousands of vendor data records in SAP to determine if any customers in SAP are the same entity based on data elements such as Name, Address, and FEIN.
+Data analysis of over 17,000 counterparty records.
+Create Mass Upload files to create Business Partner Records in the new SAP Environment (S4 Hana).
+Additional work duties related to data migration as needed.

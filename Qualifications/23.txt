@@ -1,0 +1,22 @@
+Minimum Requirements
+Bachelor's Degree in a Business or Science discipline or a related discipline.
+4 years experience in Information Management or related experience can be substituted in lieu of a degree in addition to the minimum years of experience required.
+2+ years experience in a data management/quality analytic function Or a Master's Degree in a Business or Science discipline or a related discipline and 0-2 years experience in a data management/quality analytic function Or a Master's Degree and PhD in a Business or Science discipline or a related discipline.
+Experience in project execution environment.
+Experience developing presentations to communicate findings/ recommendations.
+Experience in influencing business decisions.
+Preferred
+Master's Degree in a Business or Science discipline or a related discipline.
+4+ years experience in a data management/quality analytic function.
+2+ years process development and project execution skills.
+Experience operating data quality tools and creating data quality metrics and dashboards.
+2+ years experience with P&C Data, systems, and/or business processes.
+Experience in data management/quality analytic function.
+Experience in Metadata Management/Data Dictionary management.
+Experience with IBM Infosphere tool suite.
+Knowledge/Skills/Attributes
+Working knowledge of data analysis tools.
+Working knowledge in Data Quality tools, SQL, SAS, BI tools or other analysis software.
+Working knowledge of relevant industry data & methods and ability to connect external insights to business problems.
+Working knowledge operating data quality tools and creating data quality metrics and dashboards.
+Demonstrates working knowledge in: understanding and correcting data discrepancies; reading and translating data models; data querying; identifying data anomalies and root cause analysis.

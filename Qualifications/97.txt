@@ -1,0 +1,15 @@
+Job Description
+Job Description Overview:
+
+Steves & Sons is looking to hire a highly motivated and technically minded individual to fill the role of Home Center Data and Reporting Analyst.
+
+The Home Center Data and Reporting Analyst is well versed in Steves & Son’s database tables and designs a variety of reports and analyses for stakeholders across the business. They will maintain and update data as needed to manage internal applications and ensure data integrity.
+
+Responsibilities and Job Duties:
+
+Create and run advanced SQL queries to obtain data as requested by business managers for ad hoc and standardized reports
+Use software reporting tools to design dashboards and comprehensive reports used across multiple lines of business
+Actively identify, investigate, and resolve anomalies within production data
+Communicates with production, business logistics, and plant personnel as needed to ensure that all order and manufacturing data is accurate
+Enter and update databases with manufacturing data and complex BOM automation rules
+Liaisons with IT development teams to ensure all needed data is captured and available

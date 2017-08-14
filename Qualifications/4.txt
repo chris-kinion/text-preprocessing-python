@@ -1,0 +1,40 @@
+Basic Qualifications -
+Bachelor’s Degree in Computer Science, Information Science or related field
+At least 10 years Information Technology work experience, to include:
+At least 7 years experience in an Enterprise Data Architect or similar role
+At least 3 years additional experience in a developer, business/data analyst, quality assurance analyst, ETL developer, Database Administrator, or similar role.
+Experience performing solution design associated with data modeling, message modeling, and integration
+
+
+Other Position Requirements -
+Experience with solutions from any existing Cloud Service Provider (e.g. Amazon EC2, Google, or Microsoft Azure.
+Experience with both on premise and Cloud Integration frameworks (i.e. Mulesoft, Infomatica, Boomi, etc.).
+Demonstrated experience working in enterprise Data Architecture programs
+Demonstrated experience guiding and defining a data strategy
+Proven ability to work with all levels within an organization
+Experience in influencing executive business and IT leadership
+Demonstrated attention to detail and organizational skills
+Demonstrated communication and presentation skills
+Demonstrated knowledge in the Data domains (Analytics, BI, Big Data, Operational Data Store, Metadata, Master Data, Unstructured Data)
+Demonstrated ability to design and develop Business Process Management workflows, spanning both orchestration and human task use cases
+Demonstrated knowledge of message exchange patterns (synchronous request-reply, asynchronous fire-and-forget, broadcast-multi-cast, and publish-subscribe.)
+Experienced in SOA, with a proven understanding of web services (XSDs, WSDLs) used within an Enterprise Service Bus
+Demonstrated knowledge of transformation techniques, including but not limited to transformation, aggregation, decomposition, abstraction, and canonicalization.
+Hands-on ability to build and manage enterprise canonical models, leveraging both industry and application specific service models
+Hands-on ability to build and manage enterprise data models, leveraging both industry and application specific service models
+Demonstrated experience in defining and implementing distributed enterprise component-based architecture and frameworks to support abstraction
+Proven ability to work with various service transports and protocols (i.e. SOAP, HTTP, MQ, etc.)
+Experience with unstructured or semi-structured data design and implementation
+Hands on experience with data profiling tools and processes
+Demonstrated knowledge of normalized and dimensional modeling techniques
+Demonstrated ability to understand and mitigate architecture risk and compromise
+
+
+Preferred Qualifications:
+
+Consulting background
+Prior experience with Financial Force, Salesforce, Wave and Salesforce object model.
+Certifications in Enterprise Architecture frameworks (i.e. TOGAF, Zachman, EABOK, EACOE, etc).
+Experience with traditional data warehouse analyst, ETL developer, or BI / information delivery developer roles.
+Experience with SQL Server, MySQL, and/or similar databases
+Experience with data modeling, reverse-engineering, and profiling tools, such as ERwin, Embarcadero, Data Explorer, Data Flux

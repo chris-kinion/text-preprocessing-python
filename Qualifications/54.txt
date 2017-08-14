@@ -1,0 +1,30 @@
+Minimum Requirements
+
+If Bachelor's degree, 4+ years experience in a decision support analytic function Or If Master's Degree, 2+ years experience in a decision support analytic function Or If PhD, 1+ years experience in a decision support analytic function
+Bachelor's degree in Economics, Finance, Statistics, Mathematics, Actuarial Sciences or other quantitative discipline. Four years work experience in statistics, mathematics or quantitative analytics or related experience can be substituted in lieu of a degree in addition to the minimum years of work experience required OR A Master's Degree in quantitative analytics or a related field OR A PhD in quantitative analytics or a related field
+*Qualifications may warrant placement in a different job level.*
+
+When you apply for this position, you will be required to answer some initial questions. This will take approximately 5 minutes. Once you begin the questions you will not be able to finish them at a later time and you will not be able to change your responses.
+
+Preferred
+
+Experience with the Data Shaping, Cleaning & Transformation of Large Datasets
+Implementation of Statistical and Machine Learning Algorithms
+Experience Working in a Hadoop Environment
+Experience using Text Analytics & Social Media Mining
+Data Visualization Techniques & Software
+Prior Data Science collaboration
+Knowledge/Skills/Attributes
+
+- Demonstrates competency in mathematical and statistical techniques and approaches used to drive fact-based decision-making.
+
+- Experience presenting and communicating findings/recommendations to team members.
+
+- Advanced knowledge of data analysis tools;
+
+- Advanced knowledge in developing analysis queries and procedures in SQL, SAS, BI tools or other analysis software.
+
+- Advanced knowledge of relevant industry data & methods and demonstrated ability to connect external insights to business problems.
+
+- Demonstrated ability to influence business decisions.
+

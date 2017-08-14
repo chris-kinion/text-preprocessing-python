@@ -1,0 +1,13 @@
+Requirements/Education
+
+Bachelor’s degree in Mathematics or Computer Science
+In lieu of a degree must have at least four years’ experience in an Analyst role
+Software development analytical experience
+Experience creating functional relational databases in SQL Server
+QA experience
+Experience using agile software development methodology
+Experience creating Technical Requirements Documents (TRD), Entity Relationship Diagrams (ERD) and Business Requirements Documents (BRD)
+Development experience in TSQL and C#
+Proficiency in Microsoft SQL Server Reporting Services (SSRS)
+Experience optimizing existing code
+Proficiency in common Microsoft Office applications required

@@ -1,0 +1,16 @@
+Minimum Requirements
+
+6+ years related work experience in statistical analysis and model development Or: If a Master's Degree, 4+ years related experience in statistical model development Or: If a Ph.D.,3+ years related experience in statistical model development
+Advanced knowledge of data analysis tools and industry data sources
+Expert knowledge in developing analysis queries and procedures in SQL, SAS, BI tools or other analysis software
+Expert knowledge in several statistical techniques (Generalized linear modeling, Time Series, CART, Decision Trees, Neural Networks, Factor analysis experimental design, hypothesis testing, and/or advance techniques).
+Bachelor's degree in Statistics, Economics, Engineering, Mathematics, Actuarial Sciences or related field OR A Master's Degree in Statistics, Economics, Engineering, Mathematics, Actuarial Sciences or related field OR A PhD in Statistics, Economics, Engineering, Mathematics, Actuarial Sciences or related field.
+*Qualifications may warrant placement in a different job level.*
+
+When you apply for this position, you will be required to answer some initial questions. This will take approximately 5 minutes. Once you begin the questions you will not be able to finish them at a later time and you will not be able to change your responses.
+
+Preferred
+
+Direct modeling experience related to Bank Credit Risk and/or Bank Finance
+Direct experience analyzing and identifying patterns, trends, and insights with data
+Experience programming in R

@@ -1,0 +1,10 @@
+MINIMUM REQUIREMENTS
+
+4+ years relevant database design or administration and/or systems/development life cycle experience.
+Bachelors degree or 4 additional years of related experience beyond the minimum required may be substituted in lieu of a degree.
+Experience with technical programming languages and/or database design or database management systems.
+PREFERRED
+
+Knowledge of SQL Server 2012 and above.
+Troubleshooting Skills.
+Performance tuning is a preferred.

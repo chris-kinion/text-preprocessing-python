@@ -1,0 +1,13 @@
+This position will be responsible for collecting, researching and analyzing data related to cost of care and utilization and publish management reports identifying trends and opportunities for cost management and reduction, including the identification of individual provider practice profiles. 
+
+Primary Responsibilities:
+Conduct data mining and statistical analysis using the Dental Data Warehouse
+Construct predictive cost of care and utilization models
+Use statistical and analytical methods to identify utilization trends and dentist practice patterns and integrate clinical, third party, Facets claims and UR vendor data
+Investigate utilization problems and collect additional information to close gaps
+Create and publish periodic management reports at corporate, Line of Business, Group, Provider and Member levels as required
+Identify opportunities, through analysis, to manage and control cost of care
+Create and maintain databases as required to support analytics
+Identify providers with abusive claims patterns using analytic and statistical methods
+Create audit databases for investigating abusive providers
+Work cross-functionally and coordinate with others to gather information and overcome challenges in obtaining needed information

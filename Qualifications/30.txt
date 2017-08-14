@@ -1,0 +1,28 @@
+Required Qualifications
+7+ years of database design and administration experience
+5+ years of UNIX experience
+5+ years of SQL experience
+5+ years of data warehouse experience
+3+ years of Ab Initio experience
+3+ years of experience leading the requirement design process with both technical and business partners
+3+ years of analytics experience
+1+ year of leadership experience including coaching, training, and mentoring
+1+ year of Teradata experience
+
+
+Desired Qualifications
+Strong analytical skills with high attention to detail and accuracy
+Excellent verbal, written, and interpersonal communication skills
+Knowledge and understanding of technical leadership including large, visible, cross group projects across multiple technologies
+Ability to design, develop, and implement large scale/complex software applications
+Experience supporting or directing offshore teams
+
+
+Other Desired Qualifications
+Experience supporting an Ab Initio Metadata system
+Experience utilizing Ab Initio Express>IT/DQE
+3+ years working with technology partners including architects, planners, technical project managers, and others to ensure solutions are designed in alignment with corporate standards
+1+ years of Autosys or similar enterprise scheduling tools
+Ability to provide end-to-end system design for all components and modules of ETL application 
+Strong knowledge of relational and multi-dimensional databases
+Capacity of designing solutions around Ab Initio, with advanced skills in high performance and parallelism in Ab Initio
