@@ -1,0 +1,23 @@
+Job Number: R0010807
+
+Locations:
+San Antonio, TX
+Date Posted: 7-28-2017
+
+Full Job Title: Decision Sci Analyst I
+
+ 
+
+Purpose of Job
+
+We are currently seeking talented Decision Science Analyst I for our San Antonio, TX or remote facility.
+
+Provide decision support for business areas across the enterprise. Staff in this area will be responsible for applying mathematical and statistical techniques and/or innovative /quantitative analytical approaches to draw conclusions and make 'insight to action' recommendations to answer business objectives and drive change. The essence of work performed by the Decision Science Analyst involves gathering, manipulating and synthesizing data (e.g., attributes, transactions, behaviors, etc.), models and other relevant information to draw conclusions and make recommendations resulting in implementable strategies.
+Job Requirements
+
+Leverages business/analytical knowledge to participate in discussions with cross-functional teams to understand and collaborate on business objectives and influence solution strategies. The business problems analyzed are typically medium to large scale with impact to current and/or future business strategy.
+Applies innovative and scientific/quantitative analytical approaches to draw conclusions and make 'insight to action' recommendations to answer the business objective and drive the appropriate change. Translates recommendation into communication materials to effectively present to colleagues for peer review and mid-to-upper level management. Incorporates visualization techniques to support the relevant points of the analysis and ease the understanding for less technical audiences.
+Identifies and gathers the relevant and quality data sources required to fully answer and address the problem for the recommended strategy through testing or exploratory data analysis (EDA). Integrates/transforms disparate data sources and determines the appropriate data hygiene techniques to apply.
+Thoroughly documents assumptions, methodology, validation and testing to facilitate peer reviews. Subsequent analysts should be able to rely on documentation to replicate and continue work.
+Understands and adopts emerging technology that can affect the application of scientific methodologies and/or quantitative analytical approaches to problem resolutions.
+Delivers analysis/findings in a manner that conveys understanding, influences mid to upper level management, garners support for recommendations, drives business decisions, and influences business strategy. Recommendations typically have an impact on business results.

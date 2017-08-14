@@ -1,0 +1,15 @@
+Qualifications 
+Bachelors degree in quantitative field such as statistics, mathematics, economic, computer science, or engineering. Alternative, Bachelors degree in Business Administration with an emphasis in quantitative discipline or Marketing. Masters degree preferred. 
+Minimum 5+ years experience with data mining in a data analyst role creating reports, metrics development, database querying, preferably within a marketing or eCommerce setting. 
+Minimum 5+ years experience using SQL and SQL*Plus (preferably in an Oracle environment) and using SQL Developer or similar database management tool. Experience with querying relational database systems required. 
+Analytic and problem-solving skills with an attention to detail especially while working with large data sets from multiple sources. 
+Ability to synthesize and summarize complex analytical issues, highlighting implications for the business. 
+An understanding of basic statistical methods. 
+Working knowledge of advanced functions, graphing, and macro programming in Excel. 
+Experience with other data aggregation and data visualization tools such as Alteryx or Tableau. 
+Excellent written and oral communications skills. 
+
+Desired Skills: 
+Prefer experience with Adobe Analytics (Site Catalyst), Google Analytics, Marketing Cloud (or similar eMarketing deployment tool analytics), and similar marketing database tools. 
+Familiar with marketing automation and email deployment tools such as Pardot or similar software. 
+Experience working with Business Objects or similar ERP data mining tool.

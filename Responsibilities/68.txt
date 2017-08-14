@@ -1,0 +1,37 @@
+Minimum Requirements: 
+
+Bachelors degree or 10+ years of experience in an analytical or technical support function. 8+ years of experience in an analytical or technical support function or general data analysis/extraction experience. Intermediate knowledge of Microsoft Office products and databases; SQL and/or SAS. Intermediate knowledge of data reporting/analysis tools and techniques (such as business objects, monarch, structured query language, etc.); leveraging relational databases (such as OLTP/OLAP, DB2 Oracle, SQL Server and/or MySQL); and database design, and table structures; data warehouse structures and data marts. Intermediate knowledge of identifying, documenting and analyzing business and/or data requirements. Intermediate knowledge of data extraction techniques and applications. Displays an understanding of the connection between business operations and analytics. Experience applying data information to support business functions. Demonstrated application of innovative approaches to address business problems and solutions. Intermediate knowledge of industry best practices. Possesses agility for learning technical and business concepts. Intermediate knowledge of data governance, integrity, quality and audit functions (such as UNIX security, SAS Metadata, etc.). Successful completion of an analyst assessment may be required. 
+
+Preferred Requirements: 
+
+Masters Degree in a related field. 6+ years' relevant business support and/or general data analysis/extraction experience. Advanced knowledge of Microsoft Office products and databases; SQL and/or SAS. Advanced knowledge of data reporting/analysis tools and techniques (such as business objects, crystal, monarch, etc.); relational databases (such as OLTP/OLAP, DB2 Oracle, SQL Server and/or MySQL); database design, and table structures; data warehouse structures and data marts. Advanced knowledge of identifying, documenting and analyzing business and/or data requirements. Advanced knowledge of data extraction techniques and applications. Recognizes the connection between the business operations and analytics. Experience in Influencing business strategies and solutions. Experience in influencing innovative approaches to address business problems and solutions. Advanced knowledge of industry best practices. Intermediate knowledge of mainframe, EZtrieve, Monarch, JCL, or VBA experience. 
+
+Additional details: 
+
+Can you give me your top three skills in the order of importance and include the number of years of experience for each skill? 
+
+Statistics / Analytics 5 yrs 
+
+Data visualization 2 yrs 
+
+What are the three top technology tools that this resource must have knowledge using? 
+
+SAS 
+
+Business Objects 
+
+Excel 
+
+SQL 
+
+What are the responsibilities that this resource will have on a day to day basis? 
+
+Weekly, monthly reporting of survey data 
+
+Analysis for insights in the data results 
+
+Prepare business object reports for VOM community 
+
+QC survey data 
+
+Pulling sample 

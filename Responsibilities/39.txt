@@ -1,0 +1,22 @@
+We are looking for a highly motivated, self-starting individual in our marketing analytics and business metrics area to provide insights for data-based decision making. The individual should be strategically focused and able to not only generate data, but be able to synthesize and interpret it for various members of the marketing team and provide recommendations based on the findings. Candidate will use multiple tools and analytical techniques across multiple databases. This position involves building queries directly from an ERP system and accessing data warehouses so solid SQL experience is a requirement. Experience with Oracle would be a plus.
+
+Responsibilities:
+
+Design data plan, extract data and analyze results for ad-hoc reports used in data-based decision making within various aspects of the business, based on specifications from management.
+
+Provide actionable analytical insights and recommendations based on findings aligned to business objectives. Provide written reports and/or data visualizations and present findings to key stakeholders.
+
+Generate complex customer and prospect list segmentations using SQL queries to combine/merge data sources and extract relevant data for marketing campaigns such as email, direct mail, and call lists.
+
+Work collaboratively with marketing management to develop evaluation parameters for marketing campaign performance. Based on these parameters, extract relevant customer performance data; Evaluate, synthesize and summarize marketing campaign performance using appropriate analytical methods.
+
+Provide guidance to product management, marketing and other stakeholders to both report on campaign performance and provide guidance to improve future campaign efforts. Periodically present findings to key stakeholders.
+
+Establish campaign data quality control processes to verify expected results and ensure requirements are met; coordinate campaign deliverables with marketing management which include distribution lists and reporting on complex campaigns.
+
+Ability to work effectively with team members and with cross-functional team members from other parts of the business.
+
+Other duties and special projects as assigned.
+
+Some travel (less than 5%) is required.
+

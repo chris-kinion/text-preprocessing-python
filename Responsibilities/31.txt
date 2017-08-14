@@ -1,0 +1,8 @@
+Main responsibilities: 
+Scaling the Accelerated Buying Experience by:
+• Working with the Deal Management CPQ Module Owner team to drive CPQ enhancements that reduce manual touch
+• Participating in CPQ testing, assessing and documenting Deal Management impact for non ABE transactions
+• Working with OAL and other GFE teams to ensure successful resolution of enhancements and bugs 
+• Partnering with Cloud Framework, Product Release Group and Global Business Practices to ensure M&A integration and product releases are ABE eligible
+• Work with Global Business Practices to drive Cloud Approvals Matrix simplification through audits
+• Increase level of Cloud OD language automatio

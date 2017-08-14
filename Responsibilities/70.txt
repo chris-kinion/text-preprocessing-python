@@ -1,0 +1,7 @@
+Required Skills:
+4+ year’s experience in a data management/quality analytic function.
+2+ year’s experience operating data quality tools and creating data quality metrics and dashboards.
+Experience with metadata, master data, reference data, and content & document management systems.
+Knowledge in Data Quality tools, SQL, SAS, BI tools or other analysis software
+Experience with IBM Infosphere tool Suite.
+Experience in Metadata Management/Data Dictionary management preferred

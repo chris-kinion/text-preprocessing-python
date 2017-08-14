@@ -1,0 +1,15 @@
+Minimum Requirements: 
+
+Bachelors degree or 10+ years of experience in an analytical function 
+
+5+ years statistics/analytics 
+
+2 years data visualization 
+
+Intermediate knowledge of Microsoft Office products and databases 
+
+SQL and/or SAS, Business Objects and Excel 
+
+Intermediate knowledge of data reporting/analysis tools and techniques (such as business objects, monarch, structured query language, etc.) 
+
+Experience leveraging relational databases (such as OLTP/OLAP, DB2 Oracle, SQL Server and/or MySQL); and database design, and table structures; data warehouse structures and data marts. Intermediate knowledge of identifying, documenting and analyzing business and/or data requirements. Intermediate knowledge of data extraction techniques and applications.

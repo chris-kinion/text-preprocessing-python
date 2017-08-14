@@ -1,0 +1,6 @@
+BI Developer in San Antonio, Texas
+Overview & Responsibilities
+
+PRIMARY RESPONSIBILITY: Developing and maintaining the business intelligence framework.
+
+JOB COMPLEXITY: Works with business requirement team, analysts and developers to ensure stakeholder requirements are addressed through integration solutions in a manner that aligns with timelines, budgets and quality expectations. Leads the design and development of the Business Intelligence (BI) architecture and continually refines the BI strategy to align with corporate direction. Serves as the subject matter expert in extraction of information from EFD, Star and Snowflake schemas. Builds operational and ad-hoc reports. Builds reports that take advantage of OLAP/Dimensional Modeling capabilities. Builds executive dashboards and corporate scorecards. Works with customers to define their requirements and create information delivery solutions that meet their needs utilizing “best practices.” Develops and implements data integration strategy and associated policies as it pertains to lean integration practices. Participates in design and development reviews. Works with system owners to resolve data transformation issues and to refine transformation.

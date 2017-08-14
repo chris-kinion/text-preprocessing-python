@@ -1,0 +1,31 @@
+Job Description
+Enterprise Data & Analytics is looking for a Senior Ab Initio Designer / Developer within their Consumer Lending Risk Technology (CLRTY) Team to support its initiatives for CRM ETL System Design using Ab Initio Echo System. The engagement requires strong self-starter to fulfill the role of a Senior Team Player, that will become an important piece of our Data Management Practice especially ETL design and development. This position provides support of critical month-end data loads to the CLRTY data mart, which is used by the Credit Risk Management business unit for CAR, CCAR and BASEL regulatory reporting, as well as other business critical reporting needs. 
+
+The primary responsibilities:
+
+Provide technical consultation and support in the development of ETL applications and programs for data warehousing class of systems
+Analyze business requirements, design and write technical specifications to design or redesign ETL solutions
+Define and develop source-to-target data mapping specifications
+Develop original and/or complex code or provides coding guidance to less experienced staff in resolution of escalated issues and/or complex production, application or system problems
+Lead and/or perform functional unit testing and data analysis efforts
+Verify ETL program logic by overseeing and consulting about the preparation of test data, testing and debugging of programs
+Design the product implementation strategy and participate in overall systems integration testing
+Lead the migration of ETL application’s components to production environment and document production deployment process
+Develop new documentation to depict ETL data flow and participate in the development of technical procedures and new ETL design patterns associated with AB Initio stack of tools
+Work in On-site/Off-shore Team, Guide other ETL Developers and with non co-related team members
+Leads planning, analysis, design, implementation, and maintenance of process to support and improve the CLRTY database platform.
+He/She will also perform complex server-class database activities across various platforms and environments including one or more of the following:
+
+Business requirement identification and analysis.
+Conceptual, logical, and/or physical database design.
+Data modeling and/or mapping.
+Moderate to complex programming and coding to automate and/or support the database environment.
+Performance monitoring and tuning.
+Analyzing database metrics and assisting with capacity planning.
+Planning, testing, configuration and execution of installations, upgrades and migrations.
+Implementing security controls.
+Implementing an indexing strategy to support both effective data loads, and well as user extraction of data.
+Participate in the development of data/database architectures and management policies, procedures and standards.
+May lead moderately complex projects.
+Enterprise Data & Analytics (EDA), which offers Chief Data Office capabilities to Wells Fargo, focuses on leveraging data as a strategic asset. Data is critical to Wells Fargo’s continued success, deepening relationships with our customers, creating a seamless and convenient multi-channel experience, and meeting our commitment to satisfy our customers’ financial needs. EDA defines how we use information across the company, align our business practices and support our continued focus on great customer experience
+

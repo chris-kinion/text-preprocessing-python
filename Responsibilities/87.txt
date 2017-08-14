@@ -1,0 +1,24 @@
+Description 
+
+This position will be responsible for rapidly developing dimensional models based on a foundation of 3NF physical models. 
+Dimensional Modeling
+1-5 year hands on experience designing and implementing Star Schemas
+Comprehensive Knowledge of Ralph Kimball's Data Modeling Concepts including Transaction dimensions, conformed dimensions and facts, slowly changing dimensions, multi-Star/ Snowflake Schema Modeling, different types of Fact tables
+Prior experience implementing DW presentation layer - including design and definition of logical tables, physical sources, dimensions, columns and aggregation rules.
+3NF (Relational) Logical and Physical Modeling
+1-5 year hands on experience Logical Data Modeling (3NF)
+Comprehensive Knowledge of Bill Inmon's Data Modeling Concepts (Logical and Physical) including 3NF, Supertypes, Subtypes, Abstraction, Associative entities / tables
+Teradata Physical Modeling and Performance Tuning including Primary, Secondary index, JIs, AJIs, PPIs (SLPPI, MLPPI) etc
+SQL & Tools
+Advanced skills in writing SQL queries, views, and optimization of SQL queries are necessary.
+Teradata
+Business Intelligence
+Extensive experience with BI application architecture and development
+Experience with MicroStrategy or BusinessObjects or Cognos or Tableau at the minimum
+Hands-on experience in designing technical architecture, installation and configuration of BI Stack components
+Extensive knowledge in Presentation layer such as MOLAP, ROLAP, HOLAP, Ad-hoc reports.
+Other
+Knowledge of Hub-n-Spoke Architecture and Bus Architecture
+Experience with Software Development Life Cycle, including requirements gathering, documentation testing and knowledge transfer is required.
+Collaborates with business and technology resources to identify key business requirements for Business Intelligence (BI)
+Data Integration, Data Mapping, ETL

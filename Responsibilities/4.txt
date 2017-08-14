@@ -1,0 +1,13 @@
+The Enterprise Data Architect is responsible and accountable for application data architecture strategy, data architecture vision, and application data modeling across the enterprise, as well as and deploying and managing the data architecture. Other responsibilities include leading application data architecture software evaluations, and assessing impact of change to application data architectures, data models, and messaging models. This role also includes responsibility of data governance to ensure alignment to data architecture standards and vision. Solution architectures will include data models, standard interfaces for data access and value-added data services, metadata including an inventory of data, and follow best practices for data creation, usage, and messaging exchange.
+
+Primary Duties & Responsibilities
+
+Work with business users and end users to understand business requirements and business processes
+Build and articulate a data architecture and delivery roadmap indicating current, transition, and future state architectures. Articulate the business benefits of the future state architecture
+Evaluate and assess existing legacy data assets and translate, simplify, and define future strategy roadmap for implementation and data management of future data sources
+Lead application data architecture software evaluations
+Assess impact of changes to application data architectures, data models, and messaging models
+Create design patterns and best practices for data and the integration of data through the enterprise
+Data governance - Develop architecture reference models for data governance and control, define and implement controls, and conduct peer reviews in regards to data, security, and cloud
+Gain business consensus on data governance and control, and mentor business and development resources on best practices
+Perform training and documentation activities

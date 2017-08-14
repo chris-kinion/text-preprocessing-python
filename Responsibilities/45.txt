@@ -1,0 +1,12 @@
+Job Title
+Analyst
+Location
+Lackland AFB - TX - LACK
+Job Description
+Scientific Research Corporation is an advanced information technology engineering company that provides innovative products and services to government and private industry, as well as independent institutions. At the core of our capabilities is a seasoned team of highly skilled engineers and scientists with multidisciplinary backgrounds. This team is challenged daily to provide cutting edge technology solutions to our clients.
+
+PRIMARY DUTIES & RESPONSIBILITIES:
+
+Conduct data link operations in support of 25AF initiatives that enable and enhance National-Tactical Information-Operations with capabilities including integration, testing, training and TTP development of C2&ISR common and tactical data link systems
+Plan, design and operate C2 system networks and architectures in support of Link 16, AF-DCGS, AF-NTI and 25 AF operations
+Provide subject matter expertise to the DICE Program Management Office on a variety of technical aspects including: systems support, network accreditation and data analysis

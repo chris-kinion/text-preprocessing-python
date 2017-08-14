@@ -1,0 +1,34 @@
+Requisition ID: 58621 
+
+Summary: 
+
+Working with the customer in project releases on technical & functional data archiving objects starting from scoping, requirements gathering, implementation, and eventual go-live. Must have worked before on Data archiving, knowledge of backend archive system is advantageous. The Archiving Analyst will play a critical role in the implementation and execution of projects & initiatives aimed at curbing data growth in the SAP landscape. 
+
+Responsibilities:
+Work with customer in identifying the largest and top growth tables
+Identify the archive objects related to those tables
+Work with business & process team in identifying the residency & retention time frames
+Implement the archive objects and work with SAP if any issues or OSS notes to be implemented as a part.
+Go-live with the project and ensure all necessary configurations are in place.
+Eventually catching up the data for past and plan for steady-state job executions
+Data archiving knowledge – ADK & other newer processes.
+Knowledge of ECM like opentext, IBM commonstore,
+Experience with DART tool & functionalities
+Experience in working with SAP in raising messages & notes implementation.
+Good to have knowledge on ABAP & functional areas as applicable
+Review and integrate the technical architecture requirements for Data Archiving.
+Partnered with functional teams to identify archiving objects, targeted data, establish residence times, and configure selection criteria for each.
+Perform necessary SAP configurations for archive objects
+Monitor Archiving jobs for effectiveness & completeness
+Requirements:
+Minimum undergraduate degree in Information Systems, Business Administration or related field of study required.
+SAP certification in solutions and components preferred.
+Project management certification preferred.
+Lean Six Sigma yellow belt or higher certification preferred.
+Minimum 2 years SAP work experience required.
+Minimum of 2 years of experience with OpenText ECM, xECM, ArchiveServer, ContentServer
+Minimum 5 years’ experience in data archiving
+Minimum 5 years analytical and business requirements gathering experience on information technology team required.
+IS-Oil experience preferred.
+Expertise in two or more Functional knowledge on those SAP modules such as SD, MM, PP, FI, etc...
+SAP ILM knowledge/experience preferred but not mandatory.

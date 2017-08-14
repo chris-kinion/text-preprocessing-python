@@ -1,0 +1,23 @@
+Minimum Qualifications
+If Bachelor's degree,
+6+ years experience in data management, data quality or business applications function OR
+If Master's degree,
+4+ years experience in a data management, data quality or business applications function OR
+If PhD, 3+ years experience in a data management, data quality or business applications function
+Bachelor's Degree in a Business or Science discipline.
+Four years work experience in data management, data quality or business applications function or related experience can be substituted in lieu of a degree in addition to the minimum years of work experience required. OR
+A Master's Degree in a Business or Science discipline or a related discipline. OR
+A PhD in a Business or Science discipline or a related discipline
+Qualifications may warrant placement in a different job level*
+When you apply for this position, you will be required to answer some initial questions. This will take approximately 5 minutes. Once you begin the questions you will not be able to finish them at a later time and you will not able to change your responses. 
+
+Preferred Qualifications
+Information Governance experience developing data policies, standards, and procedures
+Data Quality experience identifying and resolving data issues
+Data Management experience investigating data lineage and processing gaps
+Knowledge/Skills/Attributes
+Advanced knowledge of frequency and duplicate analysis, cross dataset dependencies, orphan 'child data' rows, redundancy analysis; data extraction techniques and applications.
+Advanced knowledge in Data Quality tools, SQL, SAS, BI tools or other analysis software.
+Advanced knowledge of relevant industry data & methods and demonstrated ability to connect external insights to business problems.
+Demonstrates advanced skills in: understanding and correcting data discrepancies; reading and translating data models; data querying; identifying data anomalies and root cause analysis; understanding and capability to explain Master Data Management.
+Proven ability to influence business decisions.

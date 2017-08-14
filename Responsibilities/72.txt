@@ -1,0 +1,18 @@
+Extract data from various databases including Oracle RMS
+
+-Apply basic statsical concepts to understand and describe relationships in data
+
+-Build predictive models and complex descriptive analytics
+
+-Participate in discussions with business partners
+
+-Provide analytic support to IT
+
+Experience:
+
+-2-3 years experience as a data analyst
+
+-Experience with Oracle Retail Management System is a plus
+
+-A Bachelor's Degree in Computer Science, Statistics, Mathematics, a related field, or equivalent experience
+

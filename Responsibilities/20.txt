@@ -1,0 +1,17 @@
+Interprets results using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining
+independently. Defines data quality rules and ensures the proper implementation of data quality during the creation and modification of data, according to Enterprise Data and Analytics data quality standards, guidelines, metrics and quality-expectations. Defines rules to evaluate data quality and creates effective test plans, according to Enterprise Data and Analytics data quality standards. Ensures accuracy, completeness, integrity, consistency, uniqueness, and timeliness of data. Executes Enterprise Data and Analytics data quality tests/assessments and data cleansing activities. Monitors compliance of data flows against Enterprise Data and Analytics data quality standards. Serves as liaison between business and internal and external clients.
+We are currently seeking a talented Sr Data Quality Analyst for our San Antonio, TX location.
+Job Requirements
+Leverages advanced data management knowledge to define data quality and metadata processes, define data quality rules, thresholds, and standard metrics/quality-expectations for data elements that support critical business processes.
+Develops and implements data quality tests/assessments.
+Leads discussions with cross-functional teams.
+Establish data profiling standards and best practices. Investigates effectiveness of data quality controls and metadata capture, and identifies improvement opportunities.
+Consults with business and IT process owners to review the effectiveness of data quality controls and metadata capture, and aligns best practices and tools based on business needs.
+Leverages advanced knowledge to consult on the development and implementation controls to mitigate data quality risk.
+Monitors data quality results, reports and dashboard, and consults on data quality corrective action plans.
+Establishes best practices to ensure adherence to enterprise data quality programs and standards.
+Partners with enterprise data and analytic stakeholders to establish metrics for data quality process assessment.
+Checks and reviews failures from complex compliance assessments.
+Consults with enterprise on standards for metadata repository management, access requests, metadata association.
+Leverages advanced data management knowledge to consult on the impact of complex changes to reference data, and to coordinate requests for reference data changes that involve multiple business areas.
+Collaborates with enterprise data and analytic peers on reconciliation and maintenance of reference data.

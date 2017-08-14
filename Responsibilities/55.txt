@@ -1,0 +1,31 @@
+Description
+ 
+H-E-B's Corporate Planning and Analysis Team develops and maintains budgets and financial systems while providing current, reliable financial data, analysis, and technical information.
+
+As a Senior Data Scientist, you will take technical lead on data science projects, combining predictive analytics, machine learning, data modeling, and business acumen to assist in decision-making for complex business problems across multiple business areas. You won't just report the data; you'll also build it, its attributes, and its parameters, while tailoring People-friendly solutions to emerging business challenges.
+
+Once you're eligible, you'll become an Owner in the company, so we're looking for commitment, hard work, and focus on quality and Customer service. -Partner-owned- means our most important resources-People-drive the innovation, growth, and success that makes H-E-B The Greatest Retailing Company.
+ 
+Do you have a:
+HEART FOR PEOPLE- willingness to take a break from algorithmic thinking and detecting to translate and share your findings with a variety of business customers?
+HEAD FOR BUSINESS- skills to blend mass data-wrangling with business acumen?
+PASSION FOR RESULTS- ability to generate business-valued questions and data-driven solutions?
+
+We are looking for:
+- experience in a retail-related data / decision science role
+- expertise in data science techniques and statistical programming languages
+- someone with a curious and inquisitive nature
+
+What is the work?
+Analytics / Design & Development:
+- Independently and collaboratively explores, develops, and delivers solutions to meet business needs
+- Applies in-depth technical knowledge to create / implement Customer-centric solutions to complex business problems across multiple business areas
+- Independently converts business management questions into analyzable problems and provide solutions
+- Develops / applies algorithms, and mines, analyzes complex unstructured data sets to recommend / implement solutions
+- Researches, analyzes, models, and reports on organizational data in support of Team projects; influences top decision-makers
+Advising:
+- Collaborates closely / follows through with business owners to answer management questions and recommend actions
+- Presents Team findings and solutions to senior management and top leadership
+
+Mentoring:
+- Mentors and develops less experienced Partners

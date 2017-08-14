@@ -1,0 +1,28 @@
+Overview & Responsibilities
+
+Senior Data Architect
+
+PRIMARY RESPONSIBILITY:
+
+Responsible for the delivery of a robust scalable data architecture that meets the business goals of the organization.
+
+Works with Business Stakeholders and ETL Developers to translate the business requirements into a logical model and physical model.
+
+May also be considered a Data Warehouse Architect, in cooperation with the Enterprise Architect and includes responsibility for developing the overall Data Warehouse logical and physical architecture, specifically the configuration of the data warehouse, data marts, and an operational data store.
+
+Works with analysts and developers to ensure stakeholder requirements are addressed through integration solutions in a manner that aligns with timelines, budgets and quality expectations.
+
+Designs an information strategy that maximizes the value of data as an enterprise asset.
+
+Develops and implements data integration strategy and associated policies as it pertains to lean integration practices.
+
+Develops technical design documents, logical/physical data models, source data mappings, and documents the models in Entity-Relationship Diagrams (ERD). Coordinates the metadata associated with the application.
+
+Profile source data and determine all source data and metadata characteristics.
+
+Works closely with Data ETL engineers to develop Data Integration Workflows and load processes.
+
+Participates in design and development reviews.
+
+Works with system owners to resolve data transformation issues and to refine transformation components. Ensures that performance metrics are met and tracked.
+

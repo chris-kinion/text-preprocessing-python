@@ -1,0 +1,11 @@
+The DHA Pharmacy Analytics Support Section provides analytic support to all parties associated with the process of dispensing outpatient prescriptions to DoD beneficiaries. We deliver information and analytic products and tools to the Pharmacy Operations Division, military pharmacies, a contracted PBM, and the pharmaceutical industry in support of clinical initiatives, policy development, metric development, performance monitoring, and more.
+We are seeking a Junior Health Data Analyst to join our team.
+Essential Duties And Responsibilities
+The data analyst will work under the guidance of a senior analyst to prepare responses to requests for information in support of health care delivery, clinical studies, and pharmacy program management, including policy development, metrics and performance management. Specifically, the successful candidate will:
+Use various databases and analysis tools (e.g. Business Objects, MS Access, MS Excel) to collect data for report development.
+Compile reports and perform analysis to address pharmacy related questions from patient, provider, and pharmacy perspectives.
+Support analyses related to management controls and oversight (e.g. Fraud Waste and Abuse (FWA), Prescription Drug Monitoring Program (PDMP)).
+Provide end user support for selected data delivery tools.
+Identify and assist in resolution of data issues.
+Handle all data and deliveries with sensitivity to guidelines and requirements for working with PHI and PII.
+Participate in team meetings for development, collaboration, and assignments, recording minutes as required.

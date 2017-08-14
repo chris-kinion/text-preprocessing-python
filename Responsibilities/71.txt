@@ -1,0 +1,11 @@
+Education and Qualifications
+Related training/education/experience in Computer Science or other relevant education
+The work experience should include at least two years in a statistical programming environment
+Knowledge and application of p-values, confidence intervals, linear regression analysis, advanced general linear models, frequencies, survival analysis, non-parametric analysis, randomization software, proficiency in implementing these ideas in clear, efficient SAS code for the purposes of data analysis and reporting.
+Accountable for overall timelines and major project milestones, as well as overall project quality, integrity and productivity
+Knowledge of base SAS, SAS macro language, graph, FSP, STATS, SQL as well as other programming languages.
+Knowledge of UNIX system, Oracle Clinical and EDC (electronic data capture) exposure preferred
+Knowledge of clinical systems, medical terminology, clinical trail methodologies, and software systems development.
+Excellent analytical, problem solving, and computer skills.
+Flexible, well organized, excellent verbal and written communication skills, and interpersonal skills.
+Able to give effective presentations to small groups such as Implementation Teams or Statistical Programming meetings

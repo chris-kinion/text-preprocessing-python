@@ -1,0 +1,3 @@
+Education/Experience: 
+
+Requires a BS or MS in Computer Science, Computer Engineering, or a related field with at least a 3.0 GPA and 0 - 5 years of experience. Experience with Java or either C++, C#, Groovy, or Scala and willingness to learn Java is required. Experience with Spring, JavaScript, jQuery, AJAX, JSP, Servlet, or SQL (Oracle or MySQL) is a plus. 

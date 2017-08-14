@@ -1,0 +1,19 @@
+Minimum Requirements:
+
+Bachelors degree or 6 years experience in an analytical or technical support function.
+0 to 2 years experience in an analytical or technical support function or general data analysis/extraction experience.
+Basic knowledge of Microsoft Office products.
+Basic knowledge of identifying and documenting business processes.
+Basic knowledge of business functional area and processes.
+Possesses agility for learning technical and business concepts.
+Successful completion of an analyst assessment may be required.
+Preferred Requirements:
+
+2+ years general data analysis and/or extraction experience.
+Basic knowledge of data reporting/analysis tools and techniques (such as business objects, crystal, monarch, etc.).
+Basic knowledge of relational databases (such as OLTP/OLAP, DB2 Oracle, SQL Server and/or MySQL).
+Basic knowledge of data extraction techniques and applications.
+Working knowledge of business functional area and processes.
+Understands the application of data information to support business functions.
+Developing knowledge of industry best practices.
+Basic knowledge of mainframe, EZtrieve, Monarch, JCL, VBA experience.

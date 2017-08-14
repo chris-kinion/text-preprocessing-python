@@ -1,0 +1,3 @@
+Project Management Analyst
+Key Role:
+Analyze network architecture plans, implementation or cutover plans, integration plans, or interoperability plans. Provide overall project management support, migration planning, and support during migration execution, Service Level Agreement (SLA) guidance, and ongoing assessments and cost benefits analysis. Maintain, update, manage, and readjust the transition roadmap schedule using Microsoft Project.
